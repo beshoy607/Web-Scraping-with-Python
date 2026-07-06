@@ -1,0 +1,76 @@
+# 🕸️ Web Scraping with Python
+
+## 📌 Project Overview
+
+This project demonstrates web scraping techniques using Python to collect, process, and analyze data from web sources. It combines multiple tools and libraries to extract information, automate browsing, and organize the collected data for further analysis.
+
+## ✨ Features
+
+- Scrape data from websites using BeautifulSoup.
+- Automate web interactions using Selenium.
+- Store scraped data in CSV format.
+- Process and analyze collected data.
+- Jupyter Notebook implementation for interactive analysis.
+
+## 🛠️ Technologies Used
+
+- Python
+- BeautifulSoup
+- Selenium
+- Pandas
+- Jupyter Notebook
+- CSV
+
+## 📁 Project Structure
+
+```
+Web-Scraping-with-Python/
+│
+├── Final_project.ipynb
+├── phase_222.py
+├── phase_3.py
+│
+├── Phase 1/
+│   ├── selenium.py
+│   └── Copy_of_Phase_1_project.ipynb
+│
+└── phase 2/
+    ├── iphone_data.csv
+    ├── modern_iphone_relations.csv
+    ├── phase_2.ipynb
+    ├── products_data.csv
+    └── relationships_data.csv
+```
+
+## 🚀 How to Run
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/beshoy607/Web-Scraping-with-Python.git
+```
+
+2. Install the required packages.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the Jupyter Notebook.
+
+```bash
+jupyter notebook
+```
+
+4. Run the notebook cells.
+
+## 📊 Output
+
+The project extracts web data and exports the collected information into CSV files for further analysis.
+
+## 👨‍💻 Author
+
+**Beshoy Nader**
+
+GitHub:
+https://github.com/beshoy607
