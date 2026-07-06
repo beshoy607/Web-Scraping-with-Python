@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates web scraping techniques using Python to collect, process, and analyze data from web sources. It combines multiple tools and libraries to extract information, automate browsing, and organize the collected data for further analysis.
+This project is a comprehensive web scraping application developed in Python. It collects data from multiple online sources using BeautifulSoup and Selenium, processes the extracted information, visualizes relationships using graphs and heatmaps, and provides an interactive interface for searching and exploring the collected data.
 
 ## ✨ Features
 
@@ -108,3 +108,8 @@ The project extracts web data and exports the collected information into CSV fil
 
 GitHub:
 https://github.com/beshoy607
+
+
+## 📄 License
+
+This project is intended for educational purposes.
