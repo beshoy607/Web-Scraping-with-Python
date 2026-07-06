@@ -77,13 +77,13 @@ The project extracts web data and exports the collected information into CSV fil
 
 ---
 
-### Search Example
+### Heat map
 
 ![Search Example](screenshots/Screenshot%202026-07-06%20204057.png)
 
 ---
 
-### Heatmap
+### Search Example
 
 ![Heatmap](screenshots/Screenshot%202026-07-06%20204113.png)
 
