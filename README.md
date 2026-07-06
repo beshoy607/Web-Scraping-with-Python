@@ -18,8 +18,10 @@ This project demonstrates web scraping techniques using Python to collect, proce
 - BeautifulSoup
 - Selenium
 - Pandas
+- Requests
+- NetworkX
+- Matplotlib
 - Jupyter Notebook
-- CSV
 
 ## 📁 Project Structure
 
