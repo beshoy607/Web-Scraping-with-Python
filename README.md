@@ -68,6 +68,38 @@ jupyter notebook
 
 The project extracts web data and exports the collected information into CSV files for further analysis.
 
+
+## 📸 Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/Screenshot%202026-07-06%20203334.png)
+
+---
+
+### Search Example
+
+![Search Example](screenshots/Screenshot%202026-07-06%20204057.png)
+
+---
+
+### Heatmap
+
+![Heatmap](screenshots/Screenshot%202026-07-06%20204113.png)
+
+---
+
+### Network Visualization
+
+![Network](screenshots/Screenshot%202026-07-06%20204146.png)
+
+---
+
+### Wikinews Search
+
+![Wikinews](screenshots/Screenshot%202026-07-06%20204307.png)
+
+
 ## 👨‍💻 Author
 
 **Beshoy Nader**
